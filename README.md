@@ -2,8 +2,6 @@
 
 **DATE:30.08.2025**
 
-**SLOT-5M1-1**
-
 
 ## AIM  : To simulate the performance of  INVERTING, NON INVERTING , DIFFERENTIAL AND INSTRUMENTATION AMPLIFIERS  circuits using LT- SPICE                
 
